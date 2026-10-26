@@ -1,0 +1,3 @@
+Field1: DRY 
+Field2: WET 
+Field3: MOIST 
